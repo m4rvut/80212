@@ -49,3 +49,6 @@ Beim Testen des Github Repository kam es vor, dass GitHub die Jupyter Notebook-D
 * **Externe Ansicht (Jupyter nbviewer):** Die URL der fehlerhaften GitHub-Seite kopieren und auf [nbviewer.jupyter.org](https://nbviewer.jupyter.org/) einfügen.
 * **Google Colab:** Die Datei via "Download raw file" herunterladen und direkt in Google Colab hochladen, um den Code betrachten und ausführen zu können.
 * **Lokale Ansicht:** Das Repository klonen und die Datei in einer lokalen Umgebung (z. B. VS Code, JupyterLab) öffnen.
+
+## Transparenzhinweis zur Nutzung von KI
+Bei der Erstellung dieses Projekts wurde die in Google Colab integrierte generative Künstliche Intelligenz Gemini als unterstützendes Werkzeug eingesetzt. 
